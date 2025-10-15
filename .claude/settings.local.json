@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "WebSearch",
+      "Bash(python3:*)",
+      "WebFetch(domain:openai.github.io)",
+      "WebFetch(domain:developers.amadeus.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
