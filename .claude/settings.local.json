@@ -6,7 +6,8 @@
       "WebSearch",
       "Bash(python3:*)",
       "WebFetch(domain:openai.github.io)",
-      "WebFetch(domain:developers.amadeus.com)"
+      "WebFetch(domain:developers.amadeus.com)",
+      "WebFetch(domain:tools.slack.dev)"
     ],
     "deny": [],
     "ask": []
